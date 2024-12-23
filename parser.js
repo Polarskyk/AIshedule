@@ -64,7 +64,7 @@ function scheduleHtmlParser(htmlContent) {
     }
   });
 
-  console.log(courses);
+
   return courses;
 }
 
