@@ -62,7 +62,7 @@ async function scheduleHtmlProvider() {
       console.alert(e);
     }
     }
-    console.log(text);
+    
     return text;
   }
 }
